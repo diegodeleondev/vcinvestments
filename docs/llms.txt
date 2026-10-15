@@ -1,7 +1,7 @@
 # vcinvestments
 
-> Directorio independiente de fondos de venture capital, con tesis, equipos, fondos y portafolios. Datos de fuentes públicas, verificados el 2026-10-15.
+> Independent directory of venture capital firms: theses, teams, funds and portfolios. Data from public sources, verified 2026-10-15.
 
-## Fondos
+## Firms
 
-- [Konvoy Ventures](https://diegodeleondev.github.io/vcinvestments/konvoy/): Firma de venture capital de Denver, CO (sitio oficial: https://konvoy.vc). Invierte en etapa temprana en entretenimiento interactivo, deep tech e industrias críticas. Konvoy Fund III: USD 150M (julio de 2022). Fundada por Josh Chapman, Jason Chapman y Jackson Vaughan. 51 empresas en portafolio, entre ellas Axie Infinity (Sky Mavis), Ready Player Me, Carry1st, GameFam, Edgegap, k-ID y Lux Aeterna.
+- [Konvoy Ventures](https://diegodeleondev.github.io/vcinvestments/konvoy/): Denver, CO venture capital firm (official site: https://konvoy.vc). Invests at the early stage in interactive entertainment, deep tech and critical industries. Konvoy Fund III: $150M (July 2022). Founded by Josh Chapman, Jason Chapman and Jackson Vaughan. 51 portfolio companies, including Axie Infinity (Sky Mavis), Ready Player Me, Carry1st, GameFam, Edgegap, k-ID and Lux Aeterna.
