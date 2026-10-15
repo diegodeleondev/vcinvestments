@@ -1,6 +1,6 @@
 # Konvoy — Portafolio
 
-Fuente: [konvoy.vc/portfolio](https://www.konvoy.vc/portfolio), consultado el 2026-10-15. Son 52 empresas en total. Algunas aparecen en más de una vertical; aquí cada una va en su vertical principal.
+Fuente: [konvoy.vc/portfolio](https://www.konvoy.vc/portfolio), consultado el 2026-10-15. Son 51 empresas en total. Algunas aparecen en más de una vertical; aquí cada una va en su vertical principal.
 
 ## Critical Industries
 | Empresa | Qué hace |

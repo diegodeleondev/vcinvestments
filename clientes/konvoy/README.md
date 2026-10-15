@@ -12,7 +12,7 @@
 | **Etapa** | Early stage: pre-seed a Serie A |
 | **Ticket típico** | USD 0.5M – 5M (estimación de terceros, no oficial) |
 | **Geografía** | Global: Norteamérica, Europa, Medio Oriente, África y Sudeste Asiático |
-| **Portafolio** | 52 empresas en su web (10 en *stealth*) |
+| **Portafolio** | 51 empresas en su web (10 en *stealth*) |
 | **Redes** | [LinkedIn](https://www.linkedin.com/company/konvoy) · [X @konvoycapital](https://x.com/konvoycapital) |
 
 ## Tesis de inversión
@@ -36,7 +36,7 @@ Konvoy es un fondo *thesis-driven* y decide en equipo: cada deal pasa por un com
 | Archivo | Contenido |
 |---|---|
 | [equipo.md](equipo.md) | Personas clave y quién decide |
-| [portafolio.md](portafolio.md) | Las 52 empresas del portafolio por vertical |
+| [portafolio.md](portafolio.md) | Las 51 empresas del portafolio por vertical |
 | [interacciones.md](interacciones.md) | Registro de reuniones, llamadas y correos |
 | [oportunidades.md](oportunidades.md) | Pipeline de oportunidades y próximos pasos |
 
